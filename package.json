@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-copart-ops",
-  "version": "1.0.6",
+  "name": "eslint-config-airbnb-easy",
+  "version": "1.0.0",
   "description": "Eslint config for Copart ops",
   "main": "index.js",
   "scripts": {

@@ -1,1 +1,1 @@
-# eslint-copart-ops
+# eslint-config-airbnb-easy
