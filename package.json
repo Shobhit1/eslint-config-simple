@@ -1,5 +1,5 @@
 {
-  "name": "eslint-copart-ops",
+  "name": "eslint-config-copart-ops",
   "version": "1.0.1",
   "description": "Eslint config for Copart ops",
   "main": "index.js",
