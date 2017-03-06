@@ -1,0 +1,1 @@
+# eslint-copart-ops
