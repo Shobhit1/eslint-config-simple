@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-airbnb-easy",
   "version": "1.0.0",
-  "description": "Eslint config for Copart ops",
+  "description": "Eslint rules extending from airbnb but simpler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
