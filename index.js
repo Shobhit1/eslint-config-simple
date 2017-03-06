@@ -45,7 +45,7 @@ module.exports = {
         "react/no-unused-prop-types": [1, { skipShapeProps: true }],
         "react/prop-types": [1, { skipUndeclared: true }],
         "object-shorthand": [0, "always"],
-        "no-unused-vars": [warn, { ignoreRestSiblings: true }],
+        "no-unused-vars": [2, { ignoreRestSiblings: true }],
         "no-console": 1,
         "consistent-return": 0,
         "arrow-spacing": 2,

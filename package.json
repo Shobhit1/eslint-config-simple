@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-copart-ops",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint config for Copart ops",
   "main": "index.js",
   "scripts": {
