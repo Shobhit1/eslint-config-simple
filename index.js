@@ -41,6 +41,7 @@ module.exports = {
         "react/prefer-stateless-function": [1],
         "react/forbid-prop-types" : [1],
         "react/jsx-closing-bracket-location": [0],
+        "react/require-default-props": [0],
         "react/no-string-refs": [1],
         "react/no-unused-prop-types": [1, { skipShapeProps: true }],
         "react/prop-types": [1, { skipUndeclared: true }],
