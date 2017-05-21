@@ -41,7 +41,7 @@ module.exports = {
         "react/prefer-stateless-function": [1],
         "react/forbid-prop-types" : [1],
         "react/jsx-closing-bracket-location": [0],
-        "react/require-default-props": [0],
+        "react/require-default-props": [1],
         "react/no-string-refs": [1],
         "react/no-unused-prop-types": [1, { skipShapeProps: true }],
         "react/prop-types": [1, { skipUndeclared: true }],
@@ -62,6 +62,13 @@ module.exports = {
         "no-prototype-builtins": [0],
         "no-template-curly-in-string": [0],
         "jsx-a11y/no-static-element-interactions": [0],
+        "jsx-a11y/img-has-alt": [ 2, {
+            "elements": [ "img", "object", "area", "input[type=\"image\"]" ],
+            "img": ["Image"],
+            "object": ["Object"],
+            "area": ["Area"],
+            "input[type=\"image\"]": ["InputImage"]
+          }],
         "no-irregular-whitespace": [2],                             // disallow irregular whitespace outside of strings and comments
         "no-loop-func": [2],                                        // disallow creation of functions within loops
         "valid-typeof": [2],                                        // Ensure that the results of typeof are compared against a valid string
