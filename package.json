@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airbnb-easy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Eslint rules extending from airbnb but simpler",
   "main": "index.js",
   "scripts": {
